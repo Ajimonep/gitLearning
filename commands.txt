@@ -4,3 +4,8 @@ git init [git initialisation]
 git status[show all untracked files]
 git add -A[add all untracked files to staging area]
 git commit -m "message"[to commit file to loc rep with descriptive message]
+git remote add remote_name path[adding remote]    
+->git remote add orgin https://github.com/Ajimonep/gitLearning.git
+git push remote_name branch
+->git push orgin master
+git branch[list all branches ]
